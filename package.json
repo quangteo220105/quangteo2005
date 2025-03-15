@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@react-navigation/drawer": "^7.1.1",
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "axios": "^1.7.9",
+    "react-native-gesture-handler": "^2.22.1",
+    "react-native-mmkv": "^3.2.0",
+    "react-native-reanimated": "^3.16.7",
+    "react-native-safe-area-context": "^5.2.0",
+    "react-native-screens": "^4.6.0",
+    "react-native-vector-icons": "^10.2.0"
+  },
+  "devDependencies": {
+    "expo-module-scripts": "^4.0.3"
+  }
+}
